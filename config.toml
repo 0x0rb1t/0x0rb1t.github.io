@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://blog.ayoubedd.me"
+base_url = "https://ayoubedd.me"
 title = "0x0rb1t"
 compile_sass = true
 minify_html = true
@@ -21,7 +21,7 @@ menu = [
 ]
 
 socials = [
-    { name= "twitter", url= "https://twitter.com/not_matthias", icon= "twitter" },
-    { name= "github", url= "https://github.com/not-matthias/", icon = "github" },
+    { name= "twitter", url= "https://twitter.com/0x0rb1t", icon= "twitter" },
+    { name= "github", url= "https://github.com/0x0rb1t", icon = "github" },
 ]
 
