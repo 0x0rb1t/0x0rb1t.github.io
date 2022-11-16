@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://ayoubedd.me"
+base_url = "https://blog.ayoubedd.me"
 title = "0x0rb1t"
 compile_sass = true
 minify_html = true
